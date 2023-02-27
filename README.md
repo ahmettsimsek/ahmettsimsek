@@ -4,7 +4,7 @@
 
 
 ### Ben Kimim
-- computer:Atatürk üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.
+- Atatürk üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.
 
 <br/>
 
