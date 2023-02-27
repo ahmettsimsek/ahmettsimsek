@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ben Kimim
+- computer:Atatürk üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.
 
 <!--
 **ahmettsimsek/ahmettsimsek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
