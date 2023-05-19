@@ -5,6 +5,7 @@
 
 ### Ben Kimim
 - Atatürk üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.
+- Python ve Siber güvenlik alanlarında kendimi geliştirmekteyim.
 
 <br/>
 
