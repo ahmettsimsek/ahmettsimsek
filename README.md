@@ -1,6 +1,6 @@
 ### Merhaba, ben Ahmet.
 
-<img src="https://giffiles.alphacoders.com/361/36100.gif" align=right width="400" height="250">
+<img src="https://i.gifer.com/embedded/download/3otv.gif">
 
 
 ### Ben Kimim
