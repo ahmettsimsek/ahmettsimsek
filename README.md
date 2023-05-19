@@ -1,6 +1,6 @@
 ### Merhaba, ben Ahmet.
 
-<img src="https://i.gifer.com/embedded/download/3otv.gif">
+<img src="https://avatars.mds.yandex.net/i?id=3816e9386524807c0ad26cbef205aee3-5139494-images-thumbs&n=13">
 
 
 ### Ben Kimim
