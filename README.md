@@ -4,7 +4,7 @@
 
 
 ### Ben Kimim
-- Atatürk üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
+- Atatürk üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
 - Python, Unity ve Siber güvenlik alanlarında kendimi geliştirmekteyim.
 
 <br/>
