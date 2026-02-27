@@ -4,7 +4,7 @@
 
 
 ### Ben Kimim
-- Python, Unity ve Siber güvenlik alanlarında kendimi geliştirmekteyim.
+- Web ve Siber güvenlik alanlarında kendini geliştirmekte olan bir Bilgisayar Mühendisiyim.
 
 <br/>
 
