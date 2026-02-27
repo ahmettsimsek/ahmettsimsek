@@ -1,24 +1,16 @@
-### Merhaba, ben Ahmet Şimşek.
+### Merhaba, ben Ahmet Şimşek 👋
 
+💻 Web ve Siber Güvenlik alanlarında kendini geliştiren bir Bilgisayar Mühendisiyim.
 
-
+---
 
 ### Ben Kimim
-- Web ve Siber güvenlik alanlarında kendini geliştirmekte olan bir Bilgisayar Mühendisiyim.
+- 🌐 Frontend & Full Stack Developer
+- 🛡️ Cybersecurity Enthusiast
 
-<br/>
+---
 
-<!--
-**ahmettsimsek/ahmettsimsek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Teknolojiler
+HTML | CSS | JavaScript | React Native | Firebase | Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
