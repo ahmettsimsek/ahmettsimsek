@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Teknolojiler (Renkli ve Işıklı)
+### 🛠️ Teknolojiler 
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 📫 Bana Ulaşın (Işıklı Badge)
+### 📫 Bana Ulaşın 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmett%C5%9Fim%C5%9Fekk/" target="_blank">
