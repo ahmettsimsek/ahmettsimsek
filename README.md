@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 Hakkımda
-- 🎓 **Atatürk Üniversitesi** Bilgisayar Mühendisliği mezunuyum (Yüksek Onur Belgesi).
+- 🎓 **Atatürk Üniversitesi** Bilgisayar Mühendisliği Bölüm 3.'lüğü mezunuyum.
 - 💻 **Web Geliştirme** ve **Siber Güvenlik** tutkunuyum.
 - 🛡️ Ağ güvenliği ve sızma testleri üzerine projeler geliştiriyorum.
 - 📱 **React Native** ile mobil uygulama dünyasında aktif rol alıyorum.
