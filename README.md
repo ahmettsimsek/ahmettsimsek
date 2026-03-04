@@ -50,6 +50,7 @@
 ---
 
 ### 📊 İstatistikler & Başarılar
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ahmettsimsek&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="center">
