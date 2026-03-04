@@ -51,9 +51,6 @@
 
 ### 📊 İstatistikler & Başarılar
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmettsimsek&theme=radical&cache=1" alt="Trophy" />
-</p>
 
 <table align="center">
   <tr>
