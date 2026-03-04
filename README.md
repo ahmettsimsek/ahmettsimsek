@@ -1,11 +1,5 @@
 <h1 align="center">Merhaba, ben Ahmet Şimşek 👋</h1>
 
-### 📈 Haftalık Kodlama Aktivitem
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmettsimsek&theme=react-dark&area=true&hide_border=true" width="100%" alt="Aktivite Grafiği" />
-</p>
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmettsimsek&label=Profil%20Görüntüleme&color=cf3030&style=flat-square&logo=github" alt="ahmettsimsek" />
 </p>
@@ -56,6 +50,12 @@
 
 ---
 
+### 📈 Haftalık Kodlama Aktivitem
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmettsimsek&theme=react-dark&area=true&hide_border=true" width="100%" alt="Aktivite Grafiği" />
+</p>
+
+---
 ### 📊 İstatistikler & Başarılar
 
 <p align="center">
