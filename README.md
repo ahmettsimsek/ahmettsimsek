@@ -52,17 +52,6 @@
 ### 📊 İstatistikler & Başarılar
 
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ahmettsimsek&show_icons=true&theme=radical&border_radius=10" height="170" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmettsimsek&layout=compact&theme=radical&border_radius=10" height="170" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmettsimsek&theme=radical&hide_border=true" alt="Streak" />
 </p>
