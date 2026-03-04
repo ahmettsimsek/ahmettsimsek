@@ -1,16 +1,6 @@
 <h1 align="center">Merhaba, ben Ahmet Şimşek 👋</h1>
 
 
-### 📂 Öne Çıkan Projeler
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmettsimsek&repo=Dark-Menace&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmettsimsek&repo=THY-Ticket-Web-Automation&theme=radical" />
-</p>
-
-
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmettsimsek&label=Profil%20Görüntüleme&color=cf3030&style=flat-square&logo=github" alt="ahmettsimsek" />
