@@ -1,5 +1,11 @@
 <h1 align="center">Merhaba, ben Ahmet Şimşek 👋</h1>
 
+
+### 🐍 Katkı Yılanı
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ahmettsimsek/ahmettsimsek/output/github-contribution-grid-snake.svg" alt="Yılan Animasyonu" />
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmettsimsek&label=Profil%20Görüntüleme&color=cf3030&style=flat-square&logo=github" alt="ahmettsimsek" />
 </p>
