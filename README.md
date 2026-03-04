@@ -50,9 +50,35 @@
 ---
 
 ### 📊 İstatistikler & Başarılar
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ahmettsimsek&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmettsimsek&theme=radical&hide_border=true" alt="Streak" />
 </p>
+
+---
+
+## 📂 Öne Çıkan Projeler (Repository Showcase)
+
+<div align="center">
+
+  <a href="https://github.com/ahmettsimsek/Dark-Menace">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmettsimsek&repo=Dark-Menace&theme=radical&border_radius=10" />
+  </a>
+  
+  <a href="https://github.com/ahmettsimsek/THY-Ticket-Web-Automation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmettsimsek&repo=THY-Ticket-Web-Automation&theme=radical&border_radius=10" />
+  </a>
+
+</div>
+
+<br />
+
+### 🛠️ Proje Detayları
+
+* 🛡️ **Dark-Menace:** Python ile geliştirilmiş, ağ üzerindeki zafiyetleri tespit eden kapsamlı bir güvenlik tarama aracı.
+* 🤖 **Robotic Control Interface:** Franka Emika Panda robot kolu için geliştirilmiş, Python tabanlı kontrol arayüzü.
+* 📱 **Mobile Event App:** React Native ve TypeScript kullanılarak geliştirilen konum tabanlı etkinlik uygulaması.
+* 🎮 **Dark-Manage 3D:** Unity ve C# ile geliştirilen, bootcamp bitirme projesi olan 3D combat oyunu.
+* ✈️ **Turkish Airlines Automation:** Selenium ve Python kullanılarak hazırlanan bilet rezervasyon otomasyonu.
+
+---
