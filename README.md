@@ -1,21 +1,60 @@
-### Merhaba, ben Ahmet Şimşek 👋
+<h1 align="center">Merhaba, ben Ahmet Şimşek 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmettsimsek&label=Profil%20Görüntüleme&color=cf3030&style=flat-square&logo=github" alt="ahmettsimsek" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Yazılım-%23cf3030?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Siber_Güvenlik-%23cf3030?style=for-the-badge&logo=codeproject&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mühendislik-%23cf3030?style=for-the-badge&logo=probot&logoColor=white" />
+</p>
+
+### Ben Kimim
+- 🌐 **Frontend & Full Stack Developer**
+- 🛡️ **Cybersecurity Enthusiast**
 
 💻 Web ve Siber Güvenlik alanlarında kendini geliştiren bir Bilgisayar Mühendisiyim.
 
 ---
 
-### Ben Kimim
-- 🌐 Frontend & Full Stack Developer
-- 🛡️ Cybersecurity Enthusiast
+### 🛠️ Teknolojiler (Renkli ve Işıklı)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</p>
 
 ---
 
-### 🛠️ Teknolojiler
-HTML | CSS | JavaScript | React Native | Firebase | Python
+### 📫 Bana Ulaşın (Işıklı Badge)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmett%C5%9Fim%C5%9Fekk/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://medium.com/@ahmtsmsek7" target="_blank">
+  <img src="https://img.shields.io/badge/medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="mailto:ahmtsmsek7@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</p>
 
 ---
 
-### 📫 Bana Ulaşın:
-- 💼 **LinkedIn:** [linkedin.com/in/ahmettşimşekk](https://www.linkedin.com/in/ahmett%C5%9Fim%C5%9Fekk/)
-- 🐙 **Medium:** [medium.com/ahmettsimsek](https://medium.com/@ahmtsmsek7)
-- 📧 **Email:** ahmtsmsek7@gmail.com
+### GitHub İstatistiklerim (Işıklı ve Canlı)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmettsimsek&show_icons=true&theme=tokyonight" alt="Ahmet's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmettsimsek&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
