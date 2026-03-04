@@ -1,13 +1,5 @@
 <h1 align="center">Merhaba, ben Ahmet Şimşek 👋</h1>
 
-### 🛠️ Teknolojik Cephanelik
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,python,flask,firebase,mysql,kali,linux,git,figma&theme=dark" />
-  </a>
-</p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmettsimsek&label=Profil%20Görüntüleme&color=cf3030&style=flat-square&logo=github" alt="ahmettsimsek" />
