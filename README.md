@@ -16,6 +16,6 @@ HTML | CSS | JavaScript | React Native | Firebase | Python
 ---
 
 ### 📫 Bana Ulaşın:
-- 💼 **LinkedIn:** [linkedin.com/in/KULLANICI_ADIN](https://www.linkedin.com/in/KULLANICI_ADIN)
-- 🐙 **GitHub:** [github.com/ahmettsimsek](https://github.com/ahmettsimsek)
-- 📧 **Email:** eposta@adresin.com
+- 💼 **LinkedIn:** [linkedin.com/in/KULLANICI_ADIN](www.linkedin.com/in/ahmettşimşekk)
+- 🐙 **Medium:** [medium.com/ahmettsimsek](https://medium.com/@ahmtsmsek7)
+- 📧 **Email:** ahmtsmsek7@gmail.com
