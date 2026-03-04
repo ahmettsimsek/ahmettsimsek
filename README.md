@@ -26,12 +26,9 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
 
 ---
@@ -53,14 +50,21 @@
 ---
 
 ### 📊 İstatistikler & Başarılar
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmettsimsek&theme=radical&no-bg=true&column=6" alt="Trophy" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmettsimsek&show_icons=true&theme=radical&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmettsimsek&layout=compact&theme=radical&border_radius=10" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmettsimsek&theme=radical&no-bg=true&margin-w=20" alt="Trophy" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ahmettsimsek&show_icons=true&theme=radical&border_radius=10" height="170" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmettsimsek&layout=compact&theme=radical&border_radius=10" height="170" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmettsimsek&theme=radical&hide_border=true" alt="Streak" />
