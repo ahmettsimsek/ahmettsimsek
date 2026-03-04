@@ -52,9 +52,16 @@
 
 ---
 
-### GitHub İstatistiklerim (Işıklı ve Canlı)
+### 📊 İstatistikler & Başarılar
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmettsimsek&show_icons=true&theme=tokyonight" alt="Ahmet's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmettsimsek&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmettsimsek&theme=radical&no-bg=true&column=6" alt="Trophy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmettsimsek&show_icons=true&theme=radical&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmettsimsek&layout=compact&theme=radical&border_radius=10" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmettsimsek&theme=radical&hide_border=true" alt="Streak" />
 </p>
